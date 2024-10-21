@@ -1,2 +1,2 @@
 # FossaProgrammazioneWeb
-Gruppo: Lorenzo Fossa, Davide Chietti, yuri , Filippo cerulli
+Gruppo: Lorenzo Fossa, Davide Chietti, Yuri Peyrone , Filippo Cerulli, Enrico Ricci
